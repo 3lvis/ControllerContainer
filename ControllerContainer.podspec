@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = "ControllerContainer"
   s.summary          = "View Controller Containment for humans"
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.homepage         = "https://github.com/3lvis/ControllerContainer"
   s.license          = 'MIT'
   s.author           = { "Elvis Nuñez" => "elvisnunez@me.com" }
