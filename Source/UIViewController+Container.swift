@@ -11,8 +11,6 @@ public extension UIViewController {
 
         if let frame = frame {
             controller.view.frame = frame
-        } else {
-            controller.view.frame = self.view.frame
         }
 
         self.view.addSubview(controller.view)
